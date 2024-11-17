@@ -37,7 +37,7 @@ export default function Page() {
             </h1>
             <div className="p-10 max-lg:p-0">
               <p className="text-right text-3xl font-allura items-center p-5 ">
-                Valo ja varjo - Elämän lähteellä
+                Valo ja varjo - Elämän lähteellä Muutos
               </p>
             </div>
           </div>
